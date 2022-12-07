@@ -1,0 +1,14 @@
+Component   : 6-VDFN
+PCB Library : NFC_Access_Lib.PcbLib
+Date        : 4/11/2022
+Time        : 14:03:24
+
+
+
+Dimension : 0.196 x 0.14 in
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          8        0       1        0
+--------------------------------------------------------------------
+ Total                       0          8        0       1        0

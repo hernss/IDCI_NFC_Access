@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [NFC_Access.PrjPcb]
+   Generated File[NFC_Access_R00.GTO]
+   Generated File[NFC_Access_R00.GTP]
+   Generated File[NFC_Access_R00.GTS]
+   Generated File[NFC_Access_R00.GTL]
+   Generated File[NFC_Access_R00.GBL]
+   Generated File[NFC_Access_R00.GBS]
+   Generated File[NFC_Access_R00.GBP]
+   Generated File[NFC_Access_R00.GBO]
+   Generated File[NFC_Access_R00.GM]
+   Generated File[NFC_Access_R00.EXTREP]
+   Generated File[NFC_Access_R00.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 15:52:21 On 7/12/2022
