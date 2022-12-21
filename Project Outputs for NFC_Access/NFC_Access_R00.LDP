@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\htrav\OneDrive - UTN.BA\Materias UTN\IDCI\NFC_Access\NFC_Access_R00.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=nfc_access_r00-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=nfc_access_r00-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=nfc_access_r00-roundholes-nonplated.txt|DrillLayers=gtl,gbl

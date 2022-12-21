@@ -2,14 +2,10 @@
 FileName = NFC_Access_R00.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : NFC_Access_R00.GBP
+Generating : Bottom Overlay
+      File : NFC_Access_R00.GBO
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
@@ -53,13 +49,15 @@ Used DCodes :
     D38
     D39
     D40
+    D41
+    D42
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : NFC_Access_R00.GBS
+Generating : Bottom Paste
+      File : NFC_Access_R00.GBP
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -67,20 +65,21 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : NFC_Access_R00.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
 *************************************************************
 
 *************************************************************
@@ -95,8 +94,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D41
-    D42
     D43
     D44
     D45
@@ -136,31 +133,12 @@ Used DCodes :
     D79
     D80
     D81
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : NFC_Access_R00.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : NFC_Access_R00.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
 *************************************************************
 
 *************************************************************
@@ -173,13 +151,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D82
-    D86
-    D87
     D88
-    D89
-    D90
-    D91
     D92
     D93
     D94
@@ -191,6 +163,14 @@ Used DCodes :
     D100
     D101
     D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
 *************************************************************
 
 *************************************************************
@@ -203,12 +183,12 @@ Generating : Top Layer
 
 
 Used DCodes :
+    D15
     D16
     D17
     D18
     D19
     D20
-    D21
     D22
     D23
     D24
@@ -228,12 +208,8 @@ Used DCodes :
     D38
     D39
     D40
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
+    D41
+    D42
     D88
     D89
     D90
@@ -249,6 +225,44 @@ Used DCodes :
     D100
     D101
     D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : NFC_Access_R00.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
 *************************************************************
 
 *************************************************************
@@ -257,6 +271,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D103
+    D111
 *************************************************************
 
