@@ -1,0 +1,125 @@
+Line #,Name,Description,Designator,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+
+"","S8401-46","BATT HLDR COIN 20MM 1 CEL PC PIN
+952-1743-2-ND","BT1","1","","","","","","",""
+"","SMTB-0927-TW-R","3V3 Active Buzzer
+668-SMTB-0927-TW-RTR-ND","BZ1","1","","","","","","",""
+"","100nF 50V C0G","Ceramic Capacitor
+MNF: GRM31C5C1H104JA01L
+DGK: 490-6505-2-ND","C1","1","","","","","","",""
+"","100uF 25V Elect","Polarized Capacitor
+732-8438-2-ND","C2","1","","","","","","",""
+"","10uF 25V X5R","Ceramic Capacitor
+MNF:GRM31CR61E106KA12L
+DGK:490-3373-2-ND","C3","1","","","","","","",""
+"","22uF 6.3V X5R","Ceramic Capacitor
+MNF: GRM31CR60J226KE19L
+DGK: 490-1824-2-ND","C4","1","","","","","","",""
+"","100nF 25V X7R","Ceramic Capacitor
+1276-1018-2-ND","C5, C6, C8, C10, C11, C14, C17","7","","","","","","",""
+"","10uF 6.3V X5R","Ceramic Capacitor
+1276-1119-2-ND","C7, C9, C12","3","","","","","","",""
+"","22pF 50V C0G","Ceramic Capacitor
+1276-2228-2-ND","C13, C20","2","","","","","","",""
+"","100pF 50V X7R","Ceramic Capacitor
+1276-1908-2-ND","C15, C18","2","","","","","","",""
+"","220pF 50V X7R","Ceramic Capacitor
+1276-1986-2-ND","C16, C19","2","","","","","","",""
+"","1000pF 50V X7R","Ceramic Capacitor
+1276-1018-2-ND","C21","1","","","","","","",""
+"","33pF 50V C0G","Ceramic Capacitor
+1276-1070-2-ND","C22, C23","2","","","","","","",""
+"","100nF 50V X7R","Ceramic Capacitor
+1276-1018-2-ND","C24, C25, C27, C29, C30, C34, C35, C36, C39, C41","10","","","","","","",""
+"","2.2uF 6.3V X5R","Ceramic Capacitor
+1276-1183-2-ND","C26","1","","","","","","",""
+"","22uF 6.3V X5R","Ceramic Capacitor
+1276-1193-2-ND","C28","1","","","","","","",""
+"","30pF 100V C0G","Ceramic Capacitor
+490-14763-2-ND","C31, C32","2","","","","","","",""
+"","100nF 50V X7R","Ceramic Capacitor
+1276-1018-2-ND","C33","1","","","","","","",""
+"","2.2uF 6V3 X5R","Ceramic Capacitor
+1276-1183-2-ND","C37, C38","2","","","","","","",""
+"","10uF 25V X5R","Ceramic Capacitor
+MNF:GRM31CR61E106KA12L
+DGK:1276-1869-2-ND","C40","1","","","","","","",""
+"","4.7pF 50V C0G","Ceramic Capacitor
+1276-1792-2-ND","C42, C44","2","","","","","","",""
+"","22pF 50V C0G","Ceramic Capacitor
+1276-2228-2-ND","C43","1","","","","","","",""
+"","22pf 50V C0G","Ceramic Capacitor
+1276-2228-2-ND","C45","1","","","","","","",""
+"","PJ-002BH","Barrel Power Connector
+CP-002BH-ND","CN1","1","","","","","","",""
+"","OSTTC030162 Bornera 3Vias 5mm","TERM BLK 3POS SIDE ENTRY 5MM PCB
+ED2601-ND","CN2, CN5","2","","","","","","",""
+"","TSW-105-07-F-S","CONN HEADER VERT 5POS 2.54MM
+SAM10336-ND","CN3","1","","","","","","",""
+"","OSTTC020162 Bornera 2Vias 5mm","TERM BLK 2POS SIDE ENTRY 5MM PCB
+ED2600-ND","CN4","1","","","","","","",""
+"","TSW-103-07-F-S","CONN HEADER VERT 3POS 2.54MM
+SAM8995-ND","CN6","1","","","","","","",""
+"","TSM-103-01-L-SV-P-TR","CONN HEADER SMD 3POS 2.54MM
+SAM13281TR-ND","CN7","1","","","","","","",""
+"","SMAJ30A","Unidirectional TVS
+SMAJ30ABTR-ND","D1","1","","","","","","",""
+"","STPS3L40","Diode Shottky
+497-4673-2-ND","D2","1","","","","","","",""
+"","1N4148WS","DIODE GEN PURP 75V 300MA SOD323
+1655-1N4148WSTR-ND","D3","1","","","","","","",""
+"","S1G","Diode Shottky
+1655-S1GTR-ND","D4","1","","","","","","",""
+"","ARJC02-111008B","RJ45 with Magentics
+535-12605-ND","J1","1","","","","","","",""
+"","744053003","FIXED IND 3UH 2.8A 30 MOHM SMD
+732-1037-2-ND","L1","1","","","","","","",""
+"","HZ0603A252R-10","Ferrite Bead
+240-2561-2-ND","L2, L3, L6","3","","","","","","",""
+"","560nH","FIXED IND 560NH 450MA 480MOHM SM
+490-LQW18CNR56J0ZDTR-ND","L4, L5","2","","","","","","",""
+"","NANOSMDC012F-2","Polyswitch
+NANOSMDC012F-2TR-ND","P1","1","","","","","","",""
+"","IRLML0040TRPBF","Mosfet N-Ch
+IRLML0040TRPBFTR-ND","Q1, Q2","2","","","","","","",""
+"","40K2 1%","Resistor
+CR0603-FX-4022ELFTR-ND","R1","1","","","","","","",""
+"","13K 1%","Resistor
+CR0603-FX-1302ELFTR-ND","R2","1","","","","","","",""
+"","10K 5%","Resistor","R3, R5","2","","","","","","",""
+"","1.5 5%","Resistor SMD 0603
+CR0603-J/-1R5ELFTR-ND","R4, R6","2","","","","","","",""
+"","1K69 1%","Resistor
+CR0603-FX-1691ELFTR-ND","R7","1","","","","","","",""
+"","33 5%","Resistor
+118-CR0603-JW-330ELFTR-ND","R8, R9, R10, R15, R16, R17, R18, R19, R20, R21","10","","","","","","",""
+"","10K 5%","Resistor
+CR0603-JW-103ELFTR-ND","R11, R22, R23, R27, R28","5","","","","","","",""
+"","4K7 5%","Resistor
+CR0603-JW-472ELFTR-ND","R12","1","","","","","","",""
+"","330 5%","Resistor
+CR0603-JW-331ELFTR-ND","R13","1","","","","","","",""
+"","6K49 1%","Resistor
+CR0603-FX-6491ELFTR-ND","R14","1","","","","","","",""
+"","10K 5%","Resistor
+CR0603-JW-103ELFTR-ND","R24, R25, R26, R30, R32","5","","","","","","",""
+"","1K 5%","Resistor
+CR0603-JW-102ELFTR-ND","R29, R31","2","","","","","","",""
+"","G5LE-1A4 DC12","RELAY GEN PURPOSE SPST 10A 12V
+Z2352-ND","RL1","1","","","","","","",""
+"","ST1S03APUR","IC REG BUCK ADJUSTABLE 1.5A
+497-6902-2-ND","U2","1","","","","","","",""
+"","PN5321A3HN","NFC Controller
+568-13228-ND","U3","1","","","","","","",""
+"","KSZ8091MNX","IC TRANSCEIVER FULL 1/1 32QFN
+KSZ8091MNXIA-TR-ND","U4","1","","","","","","",""
+"","STM32F407VGT6","Cortex M4 32bit CPU
+497-11605-ND","U5","1","","","","","","",""
+"","7M-27.120MAAJ-T","Crystal 4 Vias + GND 27.12 MHz
+887-1424-2-ND","X1","1","","","","","","",""
+"","ABM3C-25.000MHZ-D4Y-T","Crystal 4 Vias + GND 25.00MHz
+535-11296-2-ND","X2","1","","","","","","",""
+"","ECS-80-10-30B-CKM-TR","Crystal 4 Vias + GND 8 MHz
+50-ECS-80-10-30B-CKM-TR-ND","X3","1","","","","","","",""
+"","AB26TRQ-32.768KHZ-T","Crystal 2 Vias + GND 32.768 kHz
+535-12051-2-ND","X4","1","","","","","","",""
