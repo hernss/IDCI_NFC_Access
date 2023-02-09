@@ -1,0 +1,673 @@
+Altium Designer Pick and Place Locations
+C:\Users\htrav\OneDrive - UTN.BA\Materias UTN\IDCI\NFC_Access\Project Outputs for NFC_Access\Pick Place for NFC_Access_Panel_R00.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/02/23
+Time:       23:07
+Revision:   191220aadbffa4846a874127cfe2ea8c34396b5b
+Variant:    No variations
+Units used: mil
+
+Designator Comment                         Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                      
+J1         ARJC02-111008B                  TopLayer ARJC02-111008B         3420.039      1965.000      180      "RJ45 with Magentics
+535-12605-ND"                              
+RL1        "G5LE-1A4 DC12"                 TopLayer G5LE-1                 470.000       1400.000      90       "RELAY GEN PURPOSE SPST 10A 12V
+Z2352-ND"                       
+D2         STPS3L40                        TopLayer D_214                  220.000       840.000       0        "Diode Shottky
+497-4673-2-ND"                                   
+CN1        PJ-002BH                        TopLayer PJ002B                 332.520       191.890       270      "Barrel Power Connector
+CP-002BH-ND"                            
+D4         S1G                             TopLayer D_SMA                  690.000       160.000       0        "Diode Shottky
+1655-S1GTR-ND"                                   
+CN7        TSM-103-01-L-SV-P-TR            TopLayer HEADER_M_1X3_0.1"_SMD  4180.866      1200.000      270      "CONN HEADER SMD 3POS 2.54MM
+SAM13281TR-ND"                     
+CN6        TSW-103-07-F-S                  TopLayer HEADER_M_1X3_0.1       3710.000      1240.000      90       "CONN HEADER VERT 3POS 2.54MM
+SAM8995-ND"                       
+U4         KSZ8091MNX                      TopLayer QFN32                  2700.000      1600.000      180      "IC TRANSCEIVER FULL 1/1 32QFN
+KSZ8091MNXIA-TR-ND"              
+C3         "10uF 25V X5R"                  TopLayer C_1206                 690.000       380.000       0        "Ceramic Capacitor
+MNF:GRM31CR61E106KA12L
+DGK:490-3373-2-ND"   
+C2         "100uF 25V Elect"               TopLayer CAP_ELECT_6.3_7.7      1000.000      560.000       180      "Polarized Capacitor
+732-8438-2-ND"                             
+X4         AB26TRQ-32.768KHZ-T             TopLayer AB26TQF                1520.000      160.000       0        "Crystal 2 Vias + GND 32.768 kHz
+535-12051-2-ND"                
+BT1        S8401-46                        TopLayer S8401-46               1432.992      1030.000      90       "BATT HLDR COIN 20MM 1 CEL PC PIN
+952-1743-2-ND"                
+X3         ECS-80-10-30B-CKM-TR            TopLayer ABM3C                  2000.000      130.000       0        "Crystal 4 Vias + GND 8 MHz
+50-ECS-80-10-30B-CKM-TR-ND"         
+X2         ABM3C-25.000MHZ-D4Y-T           TopLayer ABM3C                  2820.000      2050.000      0        "Crystal 4 Vias + GND 25.00MHz
+535-11296-2-ND"                  
+X1         7M-27.120MAAJ-T                 TopLayer 7M-4-SMD               3200.000      160.000       180      "Crystal 4 Vias + GND 27.12 MHz
+887-1424-2-ND"                  
+U5         STM32F407VGT6                   TopLayer LQFP100                2000.000      800.000       90       "Cortex M4 32bit CPU
+497-11605-ND"                              
+U3         PN5321A3HN                      TopLayer QFN40G-0.5-6X6MM       3209.528      489.528       0        "NFC Controller
+568-13228-ND"                                   
+U2         ST1S03APUR                      TopLayer 6-VDFN                 600.000       560.000       270      "IC REG BUCK ADJUSTABLE 1.5A
+497-6902-2-ND"                     
+R32        "10K 5%"                        TopLayer R_0603                 1000.000      1200.000      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R31        "1K 5%"                         TopLayer R_0603                 1000.000      1120.000      0        Resistor
+CR0603-JW-102ELFTR-ND                                  
+R30        "10K 5%"                        TopLayer R_0603                 1200.000      1760.000      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R29        "1K 5%"                         TopLayer R_0603                 1200.000      1840.000      0        Resistor
+CR0603-JW-102ELFTR-ND                                  
+R28        "10K 5%"                        TopLayer R_0603                 1600.000      1920.000      0        Resistor
+CR0603-JW-103ELFTR-ND                                  
+R27        "10K 5%"                        TopLayer R_0603                 1400.000      480.000       0        Resistor
+CR0603-JW-103ELFTR-ND                                  
+R26        "10K 5%"                        TopLayer R_0603                 1400.000      1520.000      0        Resistor
+CR0603-JW-103ELFTR-ND                                  
+R25        "10K 5%"                        TopLayer R_0603                 1800.000      1600.000      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R24        "10K 5%"                        TopLayer R_0603                 1400.000      1680.000      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R23        "10K 5%"                        TopLayer R_0603                 1400.000      400.000       180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R22        "10K 5%"                        TopLayer R_0603                 1400.000      320.000       180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R21        "33 5%"                         TopLayer R_0603                 2200.000      1760.000      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R20        "33 5%"                         TopLayer R_0603                 2198.543      1440.000      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R19        "33 5%"                         TopLayer R_0603                 2200.000      1680.000      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R18        "33 5%"                         TopLayer R_0603                 2198.543      1360.000      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R17        "33 5%"                         TopLayer R_0603                 2200.000      1600.000      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R16        "33 5%"                         TopLayer R_0603                 2200.000      1280.000      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R15        "33 5%"                         TopLayer R_0603                 2200.000      1520.000      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R14        "6K49 1%"                       TopLayer R_0603                 2200.000      1920.000      180      Resistor
+CR0603-FX-6491ELFTR-ND                                 
+R13        "330 5%"                        TopLayer R_0603                 3200.000      1440.000      0        Resistor
+CR0603-JW-331ELFTR-ND                                  
+R12        "4K7 5%"                        TopLayer R_0603                 1800.000      1520.000      0        Resistor
+CR0603-JW-472ELFTR-ND                                  
+R11        "10K 5%"                        TopLayer R_0603                 3000.000      1200.000      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R10        "33 5%"                         TopLayer R_0603                 2600.000      800.000       180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R9         "33 5%"                         TopLayer R_0603                 2600.000      960.000       180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R8         "33 5%"                         TopLayer R_0603                 2600.000      880.000       180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R7         "1K69 1%"                       TopLayer R_0603                 3600.000      560.000       0        Resistor
+CR0603-FX-1691ELFTR-ND                                 
+R6         "1.5 5%"                        TopLayer R_0603                 3600.000      960.000       0        "Resistor SMD 0603
+CR0603-J/-1R5ELFTR-ND"                       
+R5         "10K 5%"                        TopLayer R_0603                 2800.000      80.000        0        Resistor                                                         
+R4         "1.5 5%"                        TopLayer R_0603                 3600.000      1040.000      0        "Resistor SMD 0603
+CR0603-J/-1R5ELFTR-ND"                       
+R3         "10K 5%"                        TopLayer R_0603                 3200.000      800.000       180      Resistor                                                         
+R2         "13K 1%"                        TopLayer R_0603                 1000.000      880.000       180      Resistor
+CR0603-FX-1302ELFTR-ND                                 
+R1         "40K2 1%"                       TopLayer R_0603                 1000.000      960.000       0        Resistor
+CR0603-FX-4022ELFTR-ND                                 
+Q2         IRLML0040TRPBF                  TopLayer SOT_23                 1000.000      1360.000      90       "Mosfet N-Ch
+IRLML0040TRPBFTR-ND"                               
+Q1         IRLML0040TRPBF                  TopLayer SOT_23                 1000.000      1760.000      90       "Mosfet N-Ch
+IRLML0040TRPBFTR-ND"                               
+P1         NANOSMDC012F-2                  TopLayer NANOSMDC               1000.000      160.000       0        Polyswitch
+NANOSMDC012F-2TR-ND                                  
+L6         HZ0603A252R-10                  TopLayer F_0603                 3200.000      1360.000      180      "Ferrite Bead
+240-2561-2-ND"                                    
+L5         560nH                           TopLayer I_0603                 3600.000      480.000       180      "FIXED IND 560NH 450MA 480MOHM SM
+490-LQW18CNR56J0ZDTR-ND"      
+L4         560nH                           TopLayer I_0603                 3600.000      320.000       0        "FIXED IND 560NH 450MA 480MOHM SM
+490-LQW18CNR56J0ZDTR-ND"      
+L3         HZ0603A252R-10                  TopLayer F_0603                 2800.000      400.000       0        "Ferrite Bead
+240-2561-2-ND"                                    
+L2         HZ0603A252R-10                  TopLayer F_0603                 2800.000      640.000       0        "Ferrite Bead
+240-2561-2-ND"                                    
+L1         744053003                       TopLayer 744053003              600.000       840.000       0        "FIXED IND 3UH 2.8A 30 MOHM SMD
+732-1037-2-ND"                  
+D3         1N4148WS                        TopLayer SOD_323                1000.000      1520.000      180      "DIODE GEN PURP 75V 300MA SOD323
+1655-1N4148WSTR-ND"            
+D1         SMAJ30A                         TopLayer D_SMA                  1000.000      320.000       0        "Unidirectional TVS
+SMAJ30ABTR-ND"                              
+CN5        "OSTTC030162 Bornera 3Vias 5mm" TopLayer TERMINALBLOCK_1X3_P5MM 470.000       2200.000      180      "TERM BLK 3POS SIDE ENTRY 5MM PCB
+ED2601-ND"                    
+CN4        "OSTTC020162 Bornera 2Vias 5mm" TopLayer TERMINALBLOCK_1X2_P5MM 1535.433      2200.000      180      "TERM BLK 2POS SIDE ENTRY 5MM PCB
+ED2600-ND"                    
+CN3        TSW-105-07-F-S                  TopLayer HEADER_M_1X5_0.1"      1200.000      1000.000      270      "CONN HEADER VERT 5POS 2.54MM
+SAM10336-ND"                      
+CN2        "OSTTC030162 Bornera 3Vias 5mm" TopLayer TERMINALBLOCK_1X3_P5MM 2303.150      2200.000      180      "TERM BLK 3POS SIDE ENTRY 5MM PCB
+ED2601-ND"                    
+C45        "22pf 50V C0G"                  TopLayer C_0603                 2200.000      80.000        180      "Ceramic Capacitor
+1276-2228-2-ND"                              
+C44        "4.7pF 50V C0G"                 TopLayer C_0603                 1600.000      80.000        180      "Ceramic Capacitor
+1276-1792-2-ND"                              
+C43        "22pF 50V C0G"                  TopLayer C_0603                 1800.000      80.000        180      "Ceramic Capacitor
+1276-2228-2-ND"                              
+C42        "4.7pF 50V C0G"                 TopLayer C_0603                 1600.000      240.000       180      "Ceramic Capacitor
+1276-1792-2-ND"                              
+C41        "100nF 50V X7R"                 TopLayer C_0603                 1400.000      560.000       180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C40        "10uF 25V X5R"                  TopLayer C_0603                 2400.000      240.000       0        "Ceramic Capacitor
+MNF:GRM31CR61E106KA12L
+DGK:1276-1869-2-ND"  
+C39        "100nF 50V X7R"                 TopLayer C_0603                 2400.000      160.000       180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C38        "2.2uF 6V3 X5R"                 TopLayer C_0603                 1800.000      1360.000      0        "Ceramic Capacitor
+1276-1183-2-ND"                              
+C37        "2.2uF 6V3 X5R"                 TopLayer C_0603                 2600.000      1040.000      0        "Ceramic Capacitor
+1276-1183-2-ND"                              
+C36        "100nF 50V X7R"                 TopLayer C_0603                 1800.000      1280.000      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C35        "100nF 50V X7R"                 TopLayer C_0603                 2600.000      560.000       180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C34        "100nF 50V X7R"                 TopLayer C_0603                 1800.000      240.000       180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C33        "100nF 50V X7R"                 TopLayer C_0603                 1400.000      1600.000      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C32        "22pF 100V C0G"                 TopLayer C_0603                 2720.000      2210.000      180      "Ceramic Capacitor
+490-4942-2-ND"                               
+C31        "22pF 100V C0G"                 TopLayer C_0603                 2920.000      2210.000      0        "Ceramic Capacitor
+490-4942-2-ND"                               
+C30        "100nF 50V X7R"                 TopLayer C_0603                 3200.000      1200.000      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C29        "100nF 50V X7R"                 TopLayer C_0603                 3200.000      1280.000      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C28        "22uF 6.3V X5R"                 TopLayer C_0603                 2480.000      1780.000      180      "Ceramic Capacitor
+1276-1193-2-ND"                              
+C27        "100nF 50V X7R"                 TopLayer C_0603                 2480.000      1700.000      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C26        "2.2uF 6.3V X5R"                TopLayer C_0603                 3000.000      1440.000      0        "Ceramic Capacitor
+1276-1183-2-ND"                              
+C25        "100nF 50V X7R"                 TopLayer C_0603                 3000.000      1360.000      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C24        "100nF 50V X7R"                 TopLayer C_0603                 3000.000      1280.000      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C23        "33pF 50V C0G"                  TopLayer C_0603                 3340.000      160.000       270      "Ceramic Capacitor
+1276-1070-2-ND"                              
+C22        "33pF 50V C0G"                  TopLayer C_0603                 3040.000      160.000       90       "Ceramic Capacitor
+1276-1070-2-ND"                              
+C21        "1000pF 50V X7R"                TopLayer C_0603                 3600.000      640.000       0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C20        "22pF 50V C0G"                  TopLayer C_0603                 3600.000      800.000       0        "Ceramic Capacitor
+1276-2228-2-ND"                              
+C19        "220pF 50V X7R"                 TopLayer C_0603                 3600.000      880.000       0        "Ceramic Capacitor
+1276-1986-2-ND"                              
+C18        "100pF 50V X7R"                 TopLayer C_0603                 3600.000      720.000       0        "Ceramic Capacitor
+1276-1908-2-ND"                              
+C17        "100nF 25V X7R"                 TopLayer C_0603                 2800.000      160.000       180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C16        "220pF 50V X7R"                 TopLayer C_0603                 3600.000      80.000        0        "Ceramic Capacitor
+1276-1986-2-ND"                              
+C15        "100pF 50V X7R"                 TopLayer C_0603                 3600.000      240.000       180      "Ceramic Capacitor
+1276-1908-2-ND"                              
+C14        "100nF 25V X7R"                 TopLayer C_0603                 3600.000      400.000       0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C13        "22pF 50V C0G"                  TopLayer C_0603                 3600.000      160.000       180      "Ceramic Capacitor
+1276-2228-2-ND"                              
+C12        "10uF 6.3V X5R"                 TopLayer C_0603                 3200.000      720.000       0        "Ceramic Capacitor
+1276-1119-2-ND"                              
+C11        "100nF 25V X7R"                 TopLayer C_0603                 3000.000      720.000       180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C10        "100nF 25V X7R"                 TopLayer C_0603                 2800.000      240.000       180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C9         "10uF 6.3V X5R"                 TopLayer C_0603                 2800.000      320.000       0        "Ceramic Capacitor
+1276-1119-2-ND"                              
+C8         "100nF 25V X7R"                 TopLayer C_0603                 2800.000      480.000       180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C7         "10uF 6.3V X5R"                 TopLayer C_0603                 2800.000      560.000       0        "Ceramic Capacitor
+1276-1119-2-ND"                              
+C6         "100nF 25V X7R"                 TopLayer C_0603                 3200.000      880.000       0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C5         "100nF 25V X7R"                 TopLayer C_0603                 3000.000      800.000       180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C4         "22uF 6.3V X5R"                 TopLayer C_1206                 1000.000      760.000       0        "Ceramic Capacitor
+MNF: GRM31CR60J226KE19L
+DGK: 490-1824-2-ND" 
+C1         "100nF 50V C0G"                 TopLayer C_1206                 690.000       280.000       0        "Ceramic Capacitor
+MNF: GRM31C5C1H104JA01L
+DGK: 490-6505-2-ND" 
+BZ1        SMTB-0927-TW-R                  TopLayer SMTB-0927-TW-R         1050.000      2140.000      270      "3V3 Active Buzzer
+668-SMTB-0927-TW-RTR-ND"                     
+J1         ARJC02-111008B                  TopLayer ARJC02-111008B         3420.039      4563.425      180      "RJ45 with Magentics
+535-12605-ND"                              
+RL1        "G5LE-1A4 DC12"                 TopLayer G5LE-1                 470.000       3998.425      90       "RELAY GEN PURPOSE SPST 10A 12V
+Z2352-ND"                       
+D2         STPS3L40                        TopLayer D_214                  220.000       3438.425      0        "Diode Shottky
+497-4673-2-ND"                                   
+CN1        PJ-002BH                        TopLayer PJ002B                 332.520       2790.315      270      "Barrel Power Connector
+CP-002BH-ND"                            
+D4         S1G                             TopLayer D_SMA                  690.000       2758.425      0        "Diode Shottky
+1655-S1GTR-ND"                                   
+CN7        TSM-103-01-L-SV-P-TR            TopLayer HEADER_M_1X3_0.1"_SMD  4180.866      3798.425      270      "CONN HEADER SMD 3POS 2.54MM
+SAM13281TR-ND"                     
+CN6        TSW-103-07-F-S                  TopLayer HEADER_M_1X3_0.1       3710.000      3838.425      90       "CONN HEADER VERT 3POS 2.54MM
+SAM8995-ND"                       
+U4         KSZ8091MNX                      TopLayer QFN32                  2700.000      4198.425      180      "IC TRANSCEIVER FULL 1/1 32QFN
+KSZ8091MNXIA-TR-ND"              
+C3         "10uF 25V X5R"                  TopLayer C_1206                 690.000       2978.425      0        "Ceramic Capacitor
+MNF:GRM31CR61E106KA12L
+DGK:490-3373-2-ND"   
+C2         "100uF 25V Elect"               TopLayer CAP_ELECT_6.3_7.7      1000.000      3158.425      180      "Polarized Capacitor
+732-8438-2-ND"                             
+X4         AB26TRQ-32.768KHZ-T             TopLayer AB26TQF                1520.000      2758.425      0        "Crystal 2 Vias + GND 32.768 kHz
+535-12051-2-ND"                
+BT1        S8401-46                        TopLayer S8401-46               1432.992      3628.425      90       "BATT HLDR COIN 20MM 1 CEL PC PIN
+952-1743-2-ND"                
+X3         ECS-80-10-30B-CKM-TR            TopLayer ABM3C                  2000.000      2728.425      0        "Crystal 4 Vias + GND 8 MHz
+50-ECS-80-10-30B-CKM-TR-ND"         
+X2         ABM3C-25.000MHZ-D4Y-T           TopLayer ABM3C                  2820.000      4648.425      0        "Crystal 4 Vias + GND 25.00MHz
+535-11296-2-ND"                  
+X1         7M-27.120MAAJ-T                 TopLayer 7M-4-SMD               3200.000      2758.425      180      "Crystal 4 Vias + GND 27.12 MHz
+887-1424-2-ND"                  
+U5         STM32F407VGT6                   TopLayer LQFP100                2000.000      3398.425      90       "Cortex M4 32bit CPU
+497-11605-ND"                              
+U3         PN5321A3HN                      TopLayer QFN40G-0.5-6X6MM       3209.528      3087.953      0        "NFC Controller
+568-13228-ND"                                   
+U2         ST1S03APUR                      TopLayer 6-VDFN                 600.000       3158.425      270      "IC REG BUCK ADJUSTABLE 1.5A
+497-6902-2-ND"                     
+R32        "10K 5%"                        TopLayer R_0603                 1000.000      3798.425      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R31        "1K 5%"                         TopLayer R_0603                 1000.000      3718.425      0        Resistor
+CR0603-JW-102ELFTR-ND                                  
+R30        "10K 5%"                        TopLayer R_0603                 1200.000      4358.425      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R29        "1K 5%"                         TopLayer R_0603                 1200.000      4438.425      0        Resistor
+CR0603-JW-102ELFTR-ND                                  
+R28        "10K 5%"                        TopLayer R_0603                 1600.000      4518.425      0        Resistor
+CR0603-JW-103ELFTR-ND                                  
+R27        "10K 5%"                        TopLayer R_0603                 1400.000      3078.425      0        Resistor
+CR0603-JW-103ELFTR-ND                                  
+R26        "10K 5%"                        TopLayer R_0603                 1400.000      4118.425      0        Resistor
+CR0603-JW-103ELFTR-ND                                  
+R25        "10K 5%"                        TopLayer R_0603                 1800.000      4198.425      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R24        "10K 5%"                        TopLayer R_0603                 1400.000      4278.425      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R23        "10K 5%"                        TopLayer R_0603                 1400.000      2998.425      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R22        "10K 5%"                        TopLayer R_0603                 1400.000      2918.425      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R21        "33 5%"                         TopLayer R_0603                 2200.000      4358.425      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R20        "33 5%"                         TopLayer R_0603                 2198.543      4038.425      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R19        "33 5%"                         TopLayer R_0603                 2200.000      4278.425      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R18        "33 5%"                         TopLayer R_0603                 2198.543      3958.425      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R17        "33 5%"                         TopLayer R_0603                 2200.000      4198.425      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R16        "33 5%"                         TopLayer R_0603                 2200.000      3878.425      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R15        "33 5%"                         TopLayer R_0603                 2200.000      4118.425      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R14        "6K49 1%"                       TopLayer R_0603                 2200.000      4518.425      180      Resistor
+CR0603-FX-6491ELFTR-ND                                 
+R13        "330 5%"                        TopLayer R_0603                 3200.000      4038.425      0        Resistor
+CR0603-JW-331ELFTR-ND                                  
+R12        "4K7 5%"                        TopLayer R_0603                 1800.000      4118.425      0        Resistor
+CR0603-JW-472ELFTR-ND                                  
+R11        "10K 5%"                        TopLayer R_0603                 3000.000      3798.425      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R10        "33 5%"                         TopLayer R_0603                 2600.000      3398.425      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R9         "33 5%"                         TopLayer R_0603                 2600.000      3558.425      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R8         "33 5%"                         TopLayer R_0603                 2600.000      3478.425      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R7         "1K69 1%"                       TopLayer R_0603                 3600.000      3158.425      0        Resistor
+CR0603-FX-1691ELFTR-ND                                 
+R6         "1.5 5%"                        TopLayer R_0603                 3600.000      3558.425      0        "Resistor SMD 0603
+CR0603-J/-1R5ELFTR-ND"                       
+R5         "10K 5%"                        TopLayer R_0603                 2800.000      2678.425      0        Resistor                                                         
+R4         "1.5 5%"                        TopLayer R_0603                 3600.000      3638.425      0        "Resistor SMD 0603
+CR0603-J/-1R5ELFTR-ND"                       
+R3         "10K 5%"                        TopLayer R_0603                 3200.000      3398.425      180      Resistor                                                         
+R2         "13K 1%"                        TopLayer R_0603                 1000.000      3478.425      180      Resistor
+CR0603-FX-1302ELFTR-ND                                 
+R1         "40K2 1%"                       TopLayer R_0603                 1000.000      3558.425      0        Resistor
+CR0603-FX-4022ELFTR-ND                                 
+Q2         IRLML0040TRPBF                  TopLayer SOT_23                 1000.000      3958.425      90       "Mosfet N-Ch
+IRLML0040TRPBFTR-ND"                               
+Q1         IRLML0040TRPBF                  TopLayer SOT_23                 1000.000      4358.425      90       "Mosfet N-Ch
+IRLML0040TRPBFTR-ND"                               
+P1         NANOSMDC012F-2                  TopLayer NANOSMDC               1000.000      2758.425      0        Polyswitch
+NANOSMDC012F-2TR-ND                                  
+L6         HZ0603A252R-10                  TopLayer F_0603                 3200.000      3958.425      180      "Ferrite Bead
+240-2561-2-ND"                                    
+L5         560nH                           TopLayer I_0603                 3600.000      3078.425      180      "FIXED IND 560NH 450MA 480MOHM SM
+490-LQW18CNR56J0ZDTR-ND"      
+L4         560nH                           TopLayer I_0603                 3600.000      2918.425      0        "FIXED IND 560NH 450MA 480MOHM SM
+490-LQW18CNR56J0ZDTR-ND"      
+L3         HZ0603A252R-10                  TopLayer F_0603                 2800.000      2998.425      0        "Ferrite Bead
+240-2561-2-ND"                                    
+L2         HZ0603A252R-10                  TopLayer F_0603                 2800.000      3238.425      0        "Ferrite Bead
+240-2561-2-ND"                                    
+L1         744053003                       TopLayer 744053003              600.000       3438.425      0        "FIXED IND 3UH 2.8A 30 MOHM SMD
+732-1037-2-ND"                  
+D3         1N4148WS                        TopLayer SOD_323                1000.000      4118.425      180      "DIODE GEN PURP 75V 300MA SOD323
+1655-1N4148WSTR-ND"            
+D1         SMAJ30A                         TopLayer D_SMA                  1000.000      2918.425      0        "Unidirectional TVS
+SMAJ30ABTR-ND"                              
+CN5        "OSTTC030162 Bornera 3Vias 5mm" TopLayer TERMINALBLOCK_1X3_P5MM 470.000       4798.425      180      "TERM BLK 3POS SIDE ENTRY 5MM PCB
+ED2601-ND"                    
+CN4        "OSTTC020162 Bornera 2Vias 5mm" TopLayer TERMINALBLOCK_1X2_P5MM 1535.433      4798.425      180      "TERM BLK 2POS SIDE ENTRY 5MM PCB
+ED2600-ND"                    
+CN3        TSW-105-07-F-S                  TopLayer HEADER_M_1X5_0.1"      1200.000      3598.425      270      "CONN HEADER VERT 5POS 2.54MM
+SAM10336-ND"                      
+CN2        "OSTTC030162 Bornera 3Vias 5mm" TopLayer TERMINALBLOCK_1X3_P5MM 2303.150      4798.425      180      "TERM BLK 3POS SIDE ENTRY 5MM PCB
+ED2601-ND"                    
+C45        "22pf 50V C0G"                  TopLayer C_0603                 2200.000      2678.425      180      "Ceramic Capacitor
+1276-2228-2-ND"                              
+C44        "4.7pF 50V C0G"                 TopLayer C_0603                 1600.000      2678.425      180      "Ceramic Capacitor
+1276-1792-2-ND"                              
+C43        "22pF 50V C0G"                  TopLayer C_0603                 1800.000      2678.425      180      "Ceramic Capacitor
+1276-2228-2-ND"                              
+C42        "4.7pF 50V C0G"                 TopLayer C_0603                 1600.000      2838.425      180      "Ceramic Capacitor
+1276-1792-2-ND"                              
+C41        "100nF 50V X7R"                 TopLayer C_0603                 1400.000      3158.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C40        "10uF 25V X5R"                  TopLayer C_0603                 2400.000      2838.425      0        "Ceramic Capacitor
+MNF:GRM31CR61E106KA12L
+DGK:1276-1869-2-ND"  
+C39        "100nF 50V X7R"                 TopLayer C_0603                 2400.000      2758.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C38        "2.2uF 6V3 X5R"                 TopLayer C_0603                 1800.000      3958.425      0        "Ceramic Capacitor
+1276-1183-2-ND"                              
+C37        "2.2uF 6V3 X5R"                 TopLayer C_0603                 2600.000      3638.425      0        "Ceramic Capacitor
+1276-1183-2-ND"                              
+C36        "100nF 50V X7R"                 TopLayer C_0603                 1800.000      3878.425      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C35        "100nF 50V X7R"                 TopLayer C_0603                 2600.000      3158.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C34        "100nF 50V X7R"                 TopLayer C_0603                 1800.000      2838.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C33        "100nF 50V X7R"                 TopLayer C_0603                 1400.000      4198.425      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C32        "22pF 100V C0G"                 TopLayer C_0603                 2720.000      4808.425      180      "Ceramic Capacitor
+490-4942-2-ND"                               
+C31        "22pF 100V C0G"                 TopLayer C_0603                 2920.000      4808.425      0        "Ceramic Capacitor
+490-4942-2-ND"                               
+C30        "100nF 50V X7R"                 TopLayer C_0603                 3200.000      3798.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C29        "100nF 50V X7R"                 TopLayer C_0603                 3200.000      3878.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C28        "22uF 6.3V X5R"                 TopLayer C_0603                 2480.000      4378.425      180      "Ceramic Capacitor
+1276-1193-2-ND"                              
+C27        "100nF 50V X7R"                 TopLayer C_0603                 2480.000      4298.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C26        "2.2uF 6.3V X5R"                TopLayer C_0603                 3000.000      4038.425      0        "Ceramic Capacitor
+1276-1183-2-ND"                              
+C25        "100nF 50V X7R"                 TopLayer C_0603                 3000.000      3958.425      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C24        "100nF 50V X7R"                 TopLayer C_0603                 3000.000      3878.425      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C23        "33pF 50V C0G"                  TopLayer C_0603                 3340.000      2758.425      270      "Ceramic Capacitor
+1276-1070-2-ND"                              
+C22        "33pF 50V C0G"                  TopLayer C_0603                 3040.000      2758.425      90       "Ceramic Capacitor
+1276-1070-2-ND"                              
+C21        "1000pF 50V X7R"                TopLayer C_0603                 3600.000      3238.425      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C20        "22pF 50V C0G"                  TopLayer C_0603                 3600.000      3398.425      0        "Ceramic Capacitor
+1276-2228-2-ND"                              
+C19        "220pF 50V X7R"                 TopLayer C_0603                 3600.000      3478.425      0        "Ceramic Capacitor
+1276-1986-2-ND"                              
+C18        "100pF 50V X7R"                 TopLayer C_0603                 3600.000      3318.425      0        "Ceramic Capacitor
+1276-1908-2-ND"                              
+C17        "100nF 25V X7R"                 TopLayer C_0603                 2800.000      2758.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C16        "220pF 50V X7R"                 TopLayer C_0603                 3600.000      2678.425      0        "Ceramic Capacitor
+1276-1986-2-ND"                              
+C15        "100pF 50V X7R"                 TopLayer C_0603                 3600.000      2838.425      180      "Ceramic Capacitor
+1276-1908-2-ND"                              
+C14        "100nF 25V X7R"                 TopLayer C_0603                 3600.000      2998.425      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C13        "22pF 50V C0G"                  TopLayer C_0603                 3600.000      2758.425      180      "Ceramic Capacitor
+1276-2228-2-ND"                              
+C12        "10uF 6.3V X5R"                 TopLayer C_0603                 3200.000      3318.425      0        "Ceramic Capacitor
+1276-1119-2-ND"                              
+C11        "100nF 25V X7R"                 TopLayer C_0603                 3000.000      3318.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C10        "100nF 25V X7R"                 TopLayer C_0603                 2800.000      2838.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C9         "10uF 6.3V X5R"                 TopLayer C_0603                 2800.000      2918.425      0        "Ceramic Capacitor
+1276-1119-2-ND"                              
+C8         "100nF 25V X7R"                 TopLayer C_0603                 2800.000      3078.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C7         "10uF 6.3V X5R"                 TopLayer C_0603                 2800.000      3158.425      0        "Ceramic Capacitor
+1276-1119-2-ND"                              
+C6         "100nF 25V X7R"                 TopLayer C_0603                 3200.000      3478.425      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C5         "100nF 25V X7R"                 TopLayer C_0603                 3000.000      3398.425      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C4         "22uF 6.3V X5R"                 TopLayer C_1206                 1000.000      3358.425      0        "Ceramic Capacitor
+MNF: GRM31CR60J226KE19L
+DGK: 490-1824-2-ND" 
+C1         "100nF 50V C0G"                 TopLayer C_1206                 690.000       2878.425      0        "Ceramic Capacitor
+MNF: GRM31C5C1H104JA01L
+DGK: 490-6505-2-ND" 
+BZ1        SMTB-0927-TW-R                  TopLayer SMTB-0927-TW-R         1050.000      4738.425      270      "3V3 Active Buzzer
+668-SMTB-0927-TW-RTR-ND"                     
+J1         ARJC02-111008B                  TopLayer ARJC02-111008B         3420.039      7161.850      180      "RJ45 with Magentics
+535-12605-ND"                              
+RL1        "G5LE-1A4 DC12"                 TopLayer G5LE-1                 470.000       6596.851      90       "RELAY GEN PURPOSE SPST 10A 12V
+Z2352-ND"                       
+D2         STPS3L40                        TopLayer D_214                  220.000       6036.850      0        "Diode Shottky
+497-4673-2-ND"                                   
+CN1        PJ-002BH                        TopLayer PJ002B                 332.520       5388.740      270      "Barrel Power Connector
+CP-002BH-ND"                            
+D4         S1G                             TopLayer D_SMA                  690.000       5356.850      0        "Diode Shottky
+1655-S1GTR-ND"                                   
+CN7        TSM-103-01-L-SV-P-TR            TopLayer HEADER_M_1X3_0.1"_SMD  4180.866      6396.850      270      "CONN HEADER SMD 3POS 2.54MM
+SAM13281TR-ND"                     
+CN6        TSW-103-07-F-S                  TopLayer HEADER_M_1X3_0.1       3710.000      6436.850      90       "CONN HEADER VERT 3POS 2.54MM
+SAM8995-ND"                       
+U4         KSZ8091MNX                      TopLayer QFN32                  2700.000      6796.850      180      "IC TRANSCEIVER FULL 1/1 32QFN
+KSZ8091MNXIA-TR-ND"              
+C3         "10uF 25V X5R"                  TopLayer C_1206                 690.000       5576.850      0        "Ceramic Capacitor
+MNF:GRM31CR61E106KA12L
+DGK:490-3373-2-ND"   
+C2         "100uF 25V Elect"               TopLayer CAP_ELECT_6.3_7.7      1000.000      5756.850      180      "Polarized Capacitor
+732-8438-2-ND"                             
+X4         AB26TRQ-32.768KHZ-T             TopLayer AB26TQF                1520.000      5356.850      0        "Crystal 2 Vias + GND 32.768 kHz
+535-12051-2-ND"                
+BT1        S8401-46                        TopLayer S8401-46               1432.992      6226.850      90       "BATT HLDR COIN 20MM 1 CEL PC PIN
+952-1743-2-ND"                
+X3         ECS-80-10-30B-CKM-TR            TopLayer ABM3C                  2000.000      5326.850      0        "Crystal 4 Vias + GND 8 MHz
+50-ECS-80-10-30B-CKM-TR-ND"         
+X2         ABM3C-25.000MHZ-D4Y-T           TopLayer ABM3C                  2820.000      7246.850      0        "Crystal 4 Vias + GND 25.00MHz
+535-11296-2-ND"                  
+X1         7M-27.120MAAJ-T                 TopLayer 7M-4-SMD               3200.000      5356.850      180      "Crystal 4 Vias + GND 27.12 MHz
+887-1424-2-ND"                  
+U5         STM32F407VGT6                   TopLayer LQFP100                2000.000      5996.850      90       "Cortex M4 32bit CPU
+497-11605-ND"                              
+U3         PN5321A3HN                      TopLayer QFN40G-0.5-6X6MM       3209.528      5686.378      0        "NFC Controller
+568-13228-ND"                                   
+U2         ST1S03APUR                      TopLayer 6-VDFN                 600.000       5756.850      270      "IC REG BUCK ADJUSTABLE 1.5A
+497-6902-2-ND"                     
+R32        "10K 5%"                        TopLayer R_0603                 1000.000      6396.850      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R31        "1K 5%"                         TopLayer R_0603                 1000.000      6316.850      0        Resistor
+CR0603-JW-102ELFTR-ND                                  
+R30        "10K 5%"                        TopLayer R_0603                 1200.000      6956.850      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R29        "1K 5%"                         TopLayer R_0603                 1200.000      7036.850      0        Resistor
+CR0603-JW-102ELFTR-ND                                  
+R28        "10K 5%"                        TopLayer R_0603                 1600.000      7116.850      0        Resistor
+CR0603-JW-103ELFTR-ND                                  
+R27        "10K 5%"                        TopLayer R_0603                 1400.000      5676.850      0        Resistor
+CR0603-JW-103ELFTR-ND                                  
+R26        "10K 5%"                        TopLayer R_0603                 1400.000      6716.850      0        Resistor
+CR0603-JW-103ELFTR-ND                                  
+R25        "10K 5%"                        TopLayer R_0603                 1800.000      6796.850      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R24        "10K 5%"                        TopLayer R_0603                 1400.000      6876.850      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R23        "10K 5%"                        TopLayer R_0603                 1400.000      5596.850      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R22        "10K 5%"                        TopLayer R_0603                 1400.000      5516.850      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R21        "33 5%"                         TopLayer R_0603                 2200.000      6956.850      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R20        "33 5%"                         TopLayer R_0603                 2198.543      6636.850      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R19        "33 5%"                         TopLayer R_0603                 2200.000      6876.850      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R18        "33 5%"                         TopLayer R_0603                 2198.543      6556.850      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R17        "33 5%"                         TopLayer R_0603                 2200.000      6796.850      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R16        "33 5%"                         TopLayer R_0603                 2200.000      6476.850      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R15        "33 5%"                         TopLayer R_0603                 2200.000      6716.850      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R14        "6K49 1%"                       TopLayer R_0603                 2200.000      7116.850      180      Resistor
+CR0603-FX-6491ELFTR-ND                                 
+R13        "330 5%"                        TopLayer R_0603                 3200.000      6636.850      0        Resistor
+CR0603-JW-331ELFTR-ND                                  
+R12        "4K7 5%"                        TopLayer R_0603                 1800.000      6716.850      0        Resistor
+CR0603-JW-472ELFTR-ND                                  
+R11        "10K 5%"                        TopLayer R_0603                 3000.000      6396.850      180      Resistor
+CR0603-JW-103ELFTR-ND                                  
+R10        "33 5%"                         TopLayer R_0603                 2600.000      5996.850      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R9         "33 5%"                         TopLayer R_0603                 2600.000      6156.850      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R8         "33 5%"                         TopLayer R_0603                 2600.000      6076.850      180      Resistor
+118-CR0603-JW-330ELFTR-ND                              
+R7         "1K69 1%"                       TopLayer R_0603                 3600.000      5756.850      0        Resistor
+CR0603-FX-1691ELFTR-ND                                 
+R6         "1.5 5%"                        TopLayer R_0603                 3600.000      6156.850      0        "Resistor SMD 0603
+CR0603-J/-1R5ELFTR-ND"                       
+R5         "10K 5%"                        TopLayer R_0603                 2800.000      5276.850      0        Resistor                                                         
+R4         "1.5 5%"                        TopLayer R_0603                 3600.000      6236.850      0        "Resistor SMD 0603
+CR0603-J/-1R5ELFTR-ND"                       
+R3         "10K 5%"                        TopLayer R_0603                 3200.000      5996.850      180      Resistor                                                         
+R2         "13K 1%"                        TopLayer R_0603                 1000.000      6076.850      180      Resistor
+CR0603-FX-1302ELFTR-ND                                 
+R1         "40K2 1%"                       TopLayer R_0603                 1000.000      6156.850      0        Resistor
+CR0603-FX-4022ELFTR-ND                                 
+Q2         IRLML0040TRPBF                  TopLayer SOT_23                 1000.000      6556.850      90       "Mosfet N-Ch
+IRLML0040TRPBFTR-ND"                               
+Q1         IRLML0040TRPBF                  TopLayer SOT_23                 1000.000      6956.850      90       "Mosfet N-Ch
+IRLML0040TRPBFTR-ND"                               
+P1         NANOSMDC012F-2                  TopLayer NANOSMDC               1000.000      5356.850      0        Polyswitch
+NANOSMDC012F-2TR-ND                                  
+L6         HZ0603A252R-10                  TopLayer F_0603                 3200.000      6556.850      180      "Ferrite Bead
+240-2561-2-ND"                                    
+L5         560nH                           TopLayer I_0603                 3600.000      5676.850      180      "FIXED IND 560NH 450MA 480MOHM SM
+490-LQW18CNR56J0ZDTR-ND"      
+L4         560nH                           TopLayer I_0603                 3600.000      5516.850      0        "FIXED IND 560NH 450MA 480MOHM SM
+490-LQW18CNR56J0ZDTR-ND"      
+L3         HZ0603A252R-10                  TopLayer F_0603                 2800.000      5596.850      0        "Ferrite Bead
+240-2561-2-ND"                                    
+L2         HZ0603A252R-10                  TopLayer F_0603                 2800.000      5836.850      0        "Ferrite Bead
+240-2561-2-ND"                                    
+L1         744053003                       TopLayer 744053003              600.000       6036.850      0        "FIXED IND 3UH 2.8A 30 MOHM SMD
+732-1037-2-ND"                  
+D3         1N4148WS                        TopLayer SOD_323                1000.000      6716.850      180      "DIODE GEN PURP 75V 300MA SOD323
+1655-1N4148WSTR-ND"            
+D1         SMAJ30A                         TopLayer D_SMA                  1000.000      5516.850      0        "Unidirectional TVS
+SMAJ30ABTR-ND"                              
+CN5        "OSTTC030162 Bornera 3Vias 5mm" TopLayer TERMINALBLOCK_1X3_P5MM 470.000       7396.850      180      "TERM BLK 3POS SIDE ENTRY 5MM PCB
+ED2601-ND"                    
+CN4        "OSTTC020162 Bornera 2Vias 5mm" TopLayer TERMINALBLOCK_1X2_P5MM 1535.433      7396.850      180      "TERM BLK 2POS SIDE ENTRY 5MM PCB
+ED2600-ND"                    
+CN3        TSW-105-07-F-S                  TopLayer HEADER_M_1X5_0.1"      1200.000      6196.850      270      "CONN HEADER VERT 5POS 2.54MM
+SAM10336-ND"                      
+CN2        "OSTTC030162 Bornera 3Vias 5mm" TopLayer TERMINALBLOCK_1X3_P5MM 2303.150      7396.850      180      "TERM BLK 3POS SIDE ENTRY 5MM PCB
+ED2601-ND"                    
+C45        "22pf 50V C0G"                  TopLayer C_0603                 2200.000      5276.850      180      "Ceramic Capacitor
+1276-2228-2-ND"                              
+C44        "4.7pF 50V C0G"                 TopLayer C_0603                 1600.000      5276.850      180      "Ceramic Capacitor
+1276-1792-2-ND"                              
+C43        "22pF 50V C0G"                  TopLayer C_0603                 1800.000      5276.850      180      "Ceramic Capacitor
+1276-2228-2-ND"                              
+C42        "4.7pF 50V C0G"                 TopLayer C_0603                 1600.000      5436.850      180      "Ceramic Capacitor
+1276-1792-2-ND"                              
+C41        "100nF 50V X7R"                 TopLayer C_0603                 1400.000      5756.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C40        "10uF 25V X5R"                  TopLayer C_0603                 2400.000      5436.850      0        "Ceramic Capacitor
+MNF:GRM31CR61E106KA12L
+DGK:1276-1869-2-ND"  
+C39        "100nF 50V X7R"                 TopLayer C_0603                 2400.000      5356.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C38        "2.2uF 6V3 X5R"                 TopLayer C_0603                 1800.000      6556.850      0        "Ceramic Capacitor
+1276-1183-2-ND"                              
+C37        "2.2uF 6V3 X5R"                 TopLayer C_0603                 2600.000      6236.850      0        "Ceramic Capacitor
+1276-1183-2-ND"                              
+C36        "100nF 50V X7R"                 TopLayer C_0603                 1800.000      6476.850      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C35        "100nF 50V X7R"                 TopLayer C_0603                 2600.000      5756.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C34        "100nF 50V X7R"                 TopLayer C_0603                 1800.000      5436.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C33        "100nF 50V X7R"                 TopLayer C_0603                 1400.000      6796.850      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C32        "22pF 100V C0G"                 TopLayer C_0603                 2720.000      7406.850      180      "Ceramic Capacitor
+490-4942-2-ND"                               
+C31        "22pF 100V C0G"                 TopLayer C_0603                 2920.000      7406.850      0        "Ceramic Capacitor
+490-4942-2-ND"                               
+C30        "100nF 50V X7R"                 TopLayer C_0603                 3200.000      6396.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C29        "100nF 50V X7R"                 TopLayer C_0603                 3200.000      6476.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C28        "22uF 6.3V X5R"                 TopLayer C_0603                 2480.000      6976.850      180      "Ceramic Capacitor
+1276-1193-2-ND"                              
+C27        "100nF 50V X7R"                 TopLayer C_0603                 2480.000      6896.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C26        "2.2uF 6.3V X5R"                TopLayer C_0603                 3000.000      6636.850      0        "Ceramic Capacitor
+1276-1183-2-ND"                              
+C25        "100nF 50V X7R"                 TopLayer C_0603                 3000.000      6556.850      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C24        "100nF 50V X7R"                 TopLayer C_0603                 3000.000      6476.850      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C23        "33pF 50V C0G"                  TopLayer C_0603                 3340.000      5356.850      270      "Ceramic Capacitor
+1276-1070-2-ND"                              
+C22        "33pF 50V C0G"                  TopLayer C_0603                 3040.000      5356.850      90       "Ceramic Capacitor
+1276-1070-2-ND"                              
+C21        "1000pF 50V X7R"                TopLayer C_0603                 3600.000      5836.850      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C20        "22pF 50V C0G"                  TopLayer C_0603                 3600.000      5996.850      0        "Ceramic Capacitor
+1276-2228-2-ND"                              
+C19        "220pF 50V X7R"                 TopLayer C_0603                 3600.000      6076.850      0        "Ceramic Capacitor
+1276-1986-2-ND"                              
+C18        "100pF 50V X7R"                 TopLayer C_0603                 3600.000      5916.850      0        "Ceramic Capacitor
+1276-1908-2-ND"                              
+C17        "100nF 25V X7R"                 TopLayer C_0603                 2800.000      5356.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C16        "220pF 50V X7R"                 TopLayer C_0603                 3600.000      5276.850      0        "Ceramic Capacitor
+1276-1986-2-ND"                              
+C15        "100pF 50V X7R"                 TopLayer C_0603                 3600.000      5436.850      180      "Ceramic Capacitor
+1276-1908-2-ND"                              
+C14        "100nF 25V X7R"                 TopLayer C_0603                 3600.000      5596.850      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C13        "22pF 50V C0G"                  TopLayer C_0603                 3600.000      5356.850      180      "Ceramic Capacitor
+1276-2228-2-ND"                              
+C12        "10uF 6.3V X5R"                 TopLayer C_0603                 3200.000      5916.850      0        "Ceramic Capacitor
+1276-1119-2-ND"                              
+C11        "100nF 25V X7R"                 TopLayer C_0603                 3000.000      5916.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C10        "100nF 25V X7R"                 TopLayer C_0603                 2800.000      5436.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C9         "10uF 6.3V X5R"                 TopLayer C_0603                 2800.000      5516.850      0        "Ceramic Capacitor
+1276-1119-2-ND"                              
+C8         "100nF 25V X7R"                 TopLayer C_0603                 2800.000      5676.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C7         "10uF 6.3V X5R"                 TopLayer C_0603                 2800.000      5756.850      0        "Ceramic Capacitor
+1276-1119-2-ND"                              
+C6         "100nF 25V X7R"                 TopLayer C_0603                 3200.000      6076.850      0        "Ceramic Capacitor
+1276-1018-2-ND"                              
+C5         "100nF 25V X7R"                 TopLayer C_0603                 3000.000      5996.850      180      "Ceramic Capacitor
+1276-1018-2-ND"                              
+C4         "22uF 6.3V X5R"                 TopLayer C_1206                 1000.000      5956.850      0        "Ceramic Capacitor
+MNF: GRM31CR60J226KE19L
+DGK: 490-1824-2-ND" 
+C1         "100nF 50V C0G"                 TopLayer C_1206                 690.000       5476.850      0        "Ceramic Capacitor
+MNF: GRM31C5C1H104JA01L
+DGK: 490-6505-2-ND" 
+BZ1        SMTB-0927-TW-R                  TopLayer SMTB-0927-TW-R         1050.000      7336.850      270      "3V3 Active Buzzer
+668-SMTB-0927-TW-RTR-ND"                     

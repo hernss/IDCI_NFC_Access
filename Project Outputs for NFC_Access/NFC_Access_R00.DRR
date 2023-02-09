@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: NFC_Access_R00.PcbDoc   30/1/2023  15:17:22
+NCDrill File Report For: NFC_Access_R00.PcbDoc   8/2/2023  23:04:49
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -17,10 +17,9 @@ T5      39mil (1mm)                                               Slot          
 T6      43mil (1.1mm)                                             Round             4         PTH        0.52inch (13.26mm)
 T7      51mil (1.3mm)                                             Round             13        PTH        5.77inch (146.64mm)
 T8      65mil (1.65mm)                                            Round             2         PTH        0.62inch (15.75mm)
-T9      118mil (3mm)                                              Round             4         PTH        4.49inch (114.00mm)
-T10     118mil (3mm)                                              Round             5         NPTH       7.83inch (198.92mm)
-T11     128mil (3.26mm)                                           Round             2         NPTH       0.45inch (11.43mm)
+T9      118mil (3mm)                                              Round             9         NPTH       13.92inch (353.46mm)
+T10     128mil (3.26mm)                                           Round             2         NPTH       0.45inch (11.43mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              198
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: NFC_Access_Panel_R00.PcbDoc   30/1/2023  17:10:14
+NCDrill File Report For: NFC_Access_Panel_R00.PcbDoc   8/2/2023  23:05:38
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -17,10 +17,9 @@ T5      39mil (1mm)                                               Slot          
 T6      43mil (1.1mm)                                             Round             12        PTH        6.81inch (173.10mm)
 T7      51mil (1.3mm)                                             Round             39        PTH        17.99inch (457.02mm)
 T8      65mil (1.65mm)                                            Round             6         PTH        7.13inch (181.10mm)
-T9      118mil (3mm)                                              Round             12        PTH        15.84inch (402.24mm)
-T10     118mil (3mm)                                              Round             15        NPTH       25.26inch (641.72mm)
-T11     128mil (3.26mm)                                           Round             6         NPTH       6.59inch (167.27mm)
-T12     157mil (4mm)                                              Round             2         NPTH       5.31inch (135.00mm)
+T9      118mil (3mm)                                              Round             27        NPTH       38.27inch (972.07mm)
+T10     128mil (3.26mm)                                           Round             6         NPTH       6.59inch (167.27mm)
+T11     157mil (4mm)                                              Round             2         NPTH       5.31inch (135.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              596
 
